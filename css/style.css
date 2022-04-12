@@ -14,3 +14,12 @@ body {
 .margin {
     padding: 10px 0px 50px 0px
 }
+
+.parceiros {
+    background-color: cyan;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
